@@ -1,0 +1,17 @@
+### Module positions - created on Wednesday, February 24, 2021 at 12:22:46 PM ###
+### Printed by Pcbnew version kicad (5.1.9-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                             PosX       PosY       Rot  Side
+C1        0.1uf     R_0402_NoSilk                   166.1160   -87.4450   90.0000  top
+C2        10uf      R_0805                          166.1160   -84.8360  270.0000  top
+C3        0.1uf     R_0402_NoSilk                   169.5241   -83.0276    0.0000  top
+C4        0.1uf     R_0402_NoSilk                   170.0530   -84.8746  270.0000  top
+C5        0.1uf     R_0402_NoSilk                   165.9200   -77.2160  180.0000  top
+C6        0.1uf     R_0402_NoSilk                   179.5780   -77.7820  270.0000  top
+R1        20K       R_0402_NoSilk                   169.5241   -80.7416    0.0000  top
+R2        8.2K      R_0402_NoSilk                   169.5241   -81.8846  180.0000  top
+R3        100       R_0402_NoSilk                   168.9581   -84.8746   90.0000  top
+R4        100       R_0402_NoSilk                   169.6511   -86.3296    0.0000  top
+U1        HX711     SOP-16_4.4x10.4mm_Pitch1.27mm   174.7520   -81.2800    0.0000  top
+## End
