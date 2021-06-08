@@ -3,4 +3,4 @@ This repository contains the KiCad project of the board used to connect a force 
 The force sensor used is [this one](https://www.robotshop.com/eu/fr/micro-cellule-force-078-kg.html).
 
 
-![L0 USBA picture](l0_USBA.png)
+![L0 USBA picture](l0_Load.png)
