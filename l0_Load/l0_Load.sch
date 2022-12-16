@@ -156,7 +156,7 @@ F 0 "R2" H 5259 3496 50  0000 L CNN
 F 1 "8.2K" H 5259 3405 50  0000 L CNN
 F 2 "Common_Footprint:R_0402_NoSilk" H 5200 3450 50  0001 C CNN
 F 3 "~" H 5230 3470 50  0001 C CNN
-F 4 "Farnnell" H 5330 3570 50  0001 C CNN "Fournisseur"
+F 4 "Farnell" H 5330 3570 50  0001 C CNN "Fournisseur"
 F 5 "2073272" H 5430 3670 50  0001 C CNN "CodeCommande"
 	1    5200 3450
 	1    0    0    -1  
