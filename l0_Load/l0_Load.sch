@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:l0_Load-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -128,10 +127,10 @@ L Common_Lib:Q_NPN_BEC Q1
 U 1 1 5D1A51AE
 P 5300 2950
 F 0 "Q1" H 5490 2904 50  0000 L CNN
-F 1 "Q_NPN_BEC" H 5490 2995 50  0000 L CNN
+F 1 "MMBT4403" H 5490 2995 50  0000 L CNN
 F 2 "Common_Footprint:SOT-23" H 5500 3050 50  0001 C CNN
-F 3 "http://www.farnell.com/datasheets/2237012.pdf?_ga=2.140267120.2129514546.1561733527-1702651347.1516354365&_gac=1.151120587.1561733527.CjwKCAjw9dboBRBUEiwA7VrrzWnHr34G1kc61Qfk28RbXiMdWHAmM61ouBBegcdTx5Nz-hzwieipihoCo5MQAvD_BwE" H 5300 2950 50  0001 C CNN
-F 4 "2533332" H 0   0   50  0001 C CNN "CodeCommand"
+F 3 "https://www.farnell.com/datasheets/1915907.pdf" H 5300 2950 50  0001 C CNN
+F 4 "2061460" H 0   0   50  0001 C CNN "CodeCommand"
 F 5 "Farnell" H 0   0   50  0001 C CNN "Fournisseur"
 	1    5300 2950
 	-1   0    0    1   
